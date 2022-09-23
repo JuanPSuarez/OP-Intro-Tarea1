@@ -1,5 +1,7 @@
 //Punto 1.
 class Persona {
+
+    public Persona(){}
     //Punto 2.
     private String nombre;
     private int edad;
