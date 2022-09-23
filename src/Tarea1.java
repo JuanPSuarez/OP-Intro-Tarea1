@@ -5,7 +5,7 @@ public class Tarea1 {
         resSuma = suma(10, 12, 99);
         System.out.println("El resultado de la suma es: " + resSuma + ".");
 
-//Segunda parte
+        //Segunda parte
         Coche auto1 = new Coche();
         auto1.AgregarPuertas();
         System.out.println("El coche tiene " + auto1.puertas + " puertas.");
