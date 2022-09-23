@@ -1,4 +1,4 @@
-# OpenBootCamp - FullStack Route - Introduccion a la Programación - Tareas
+# OpenBootCamp - FullStack Route - Introduccion a la Programación
 
 
 # Tarea 1
