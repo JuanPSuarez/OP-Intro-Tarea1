@@ -1,33 +1,43 @@
+
 # OpenBootCamp - FullStack Route - Introduccion a la Programación
 
 
-# Tarea 1
+## Tarea 1
 
-## Primera parte:
-        * Crear una función con tres parámetros que sean números que se suman entre sí.
-        * Llamar a la función en el main y darle valores.
-## Segunda parte:
-        * Crear una clase coche.
-        * Dentro de la clase coche, una variable numérica que almacene el número de puertas que tiene.
-        * Una función que incremente el número de puertas que tiene el coche.
-        * Crear un objeto miCoche en el main y añadirle una puerta.
-        *  Mostrar el número de puertas que tiene el objeto.
+---
+### Primera parte:
+1. Crear una función con tres parámetros que sean números que se suman entre sí.
+2. Llamar a la función en el main y darle valores.
+### Segunda parte: 
 
-# Tarea 2
+1. Crear una clase coche.
+2. Dentro de la clase coche, una variable numérica que almacene el número de puertas que tiene.
+3. Una función que incremente el número de puertas que tiene el coche.
+4. Crear un objeto miCoche en el main y añadirle una puerta.
+5. Mostrar el número de puertas que tiene el objeto.
 
+
+
+## Tarea 2
+
+---
 En este ejercicio practicarás las estructuras de control, para ello deberás crear:
 
-* Usando un if, crear una condición que compare si la variable numeroIf es positivo, negativo, o 0. 
-- Pista: Los números inferiores a 0 son negativos y los superiores, positivos.
+1. Usando un if, crear una condición que compare si la variable numeroIf es positivo, negativo, o 0. 
+   - Pista: Los números inferiores a 0 son negativos y los superiores, positivos.<br />
+     <br />
+2. Crea un bucle While, este bucle tendrá que tener como condición que la variable numeroWhile sea inferior a 3, el bloque de código que tendrá el bucle deberá:<br />
+   <br />
+     i. Incrementar el valor de la variable en uno cada vez que se ejecute.
 
-Crea un bucle While, este bucle tendrá que tener como condición que la variable numeroWhile sea inferior a 3, el bloque de código que tendrá el bucle deberá:
+     ii. Mostrarlo por pantalla cada vez que se ejecute.
 
-Incrementar el valor de la variable en uno cada vez que se ejecute.
+     iii. Para el bucle Do While, deberás crear la misma estructura que en el While, pero solo se debe ejecutar una vez.<br />
+   <br />
+3. Para el bucle For, crea una variable numeroFor, esta variable tendrá como valor 0 y su condición será que la variable sea igual o menor que 3, se irá incrementando en 1 su valor cada vez que se ejecute y deberá mostrarse por pantalla.<br />
+   <br />
+4. Por último, para el Switch, deberás crear la variable estacion, y distintos case para las cuatro estaciones del año.
+   - Dependiendo del valor de la variable estacion se deberá mandar un mensaje por consola informando de la estación en la que está.
+   - También habrá que poner un default para cuando el valor de la variable no sea una estación.
 
-Mostrarlo por pantalla cada vez que se ejecute.
 
-Para el bucle Do While, deberás crear la misma estructura que en el While, pero solo se debe ejecutar una vez.
-
-Para el bucle For, crea una variable numeroFor, esta variable tendrá como valor 0 y su condición será que la variable sea igual o menor que 3, se irá incrementando en 1 su valor cada vez que se ejecute y deberá mostrarse por pantalla.
-
-Por último, para el Switch, deberás crear la variable estacion, y distintos case para las cuatro estaciones del año. Dependiendo del valor de la variable estacion se deberá mandar un mensaje por consola informando de la estación en la que está. También habrá que poner un default para cuando el valor de la variable no sea una estación.
