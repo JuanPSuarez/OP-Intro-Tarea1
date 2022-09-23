@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class Tarea4 {
+public class Tarea4 {
+    public void main (String[] args){
+
+    }
 }
+
+
